@@ -4,7 +4,14 @@
 
 Sou um desenvolvedor Front-End movido pela paixão de transformar ideias em soluções reais, unindo criatividade e habilidades técnicas. Sempre em busca de aprender e evoluir, procuro oportunidades em projetos que me desafiem e contribuam para o meu crescimento.
 
-
+<div align="center">
+  <a href="https://www.linkedin.com/in/yuri-teodoro-483331316/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://portifolio-beta-swart.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portf%C3%B3lio&logo=dev.to&label=&color=4A2CC5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+  </a>
+</div>
 
 ---
 
